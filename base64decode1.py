@@ -1,7 +1,7 @@
 import binascii
+# decode input text n times
 # decode U2FtcGxlIHRleHQ=
 # decode VGhpcyBpcyB0b28gZWFzeQ==
-
 # decode (encoded multiple times) VWtkc2EwbEliSFprVTBJeFl6SlZaMWxUUW5OaU1qbDNVSGM5UFFvPQo=
 
 text = raw_input("Enter text: ")
