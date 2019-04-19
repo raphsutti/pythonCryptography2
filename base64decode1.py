@@ -14,4 +14,3 @@ for i in range(loopTimes):
     text = decodedText
   except binascii.Error as err:
     print "Incorrect padding error"
-  
